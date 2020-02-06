@@ -12,6 +12,8 @@ This exercise was good practice for eventListeners, reading key inputs, if state
 
 If I were going to expand upon this solution, I would add an animation feature to make the explosion grow upon appearance (to look more like it's actually "exploding"), as well as some flashes of light in the background.
 
+I'd also add a mobile version with up and down buttons instead of relying on arrow key input - the current version cannot be interacted with on mobile.
+
 ## Technologies ##
 
 This exercise was built with HTML, CSS, and JavaScript.  I used [Emojipedia](https://emojipedia.org/) for the balloon and fox, and [Bubbly](https://leaverou.github.io/bubbly/) for the speech bubble style.
