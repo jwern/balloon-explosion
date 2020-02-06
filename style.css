@@ -33,6 +33,7 @@ body {
 /* Speech bubble style via 
 https://leaverou.github.io/bubbly/ */
 #warning-message {
+    font-family: "Candara", "Futura", "Gill Sans", sans-serif; 
     position: relative;
 	background: #ffdcd0;
     border-radius: .4em;
