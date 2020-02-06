@@ -10,7 +10,7 @@ This exercise was good practice for eventListeners, reading key inputs, if state
 
 ## To Do ##
 
-If I were going to expand upon this solution, I would add an animation feature to make the explosion grow upon appearance (to look more like it's actually "exploding"), as well as some flashes of light in the background.
+If I were going to expand upon this solution, I would add an animation feature to make the explosion grow upon appearance (to look more like it's actually "exploding"), as well as some flashes of light in the background.  Just for fun, I might change the fox to the smiley with varying emotions -- like annoyed, scared, etc. -- as you blow up the balloon.
 
 I'd also add a mobile version with up and down buttons instead of relying on arrow key input - the current version cannot be interacted with on mobile.
 
